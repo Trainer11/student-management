@@ -1,5 +1,6 @@
 package com.singleton;
-//second commits
+//second commit
+//usinf git diff
 public class SingleTon {
 
 	//Have a private static instance variable
