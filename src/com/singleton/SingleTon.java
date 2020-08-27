@@ -1,5 +1,5 @@
 package com.singleton;
-
+//second commits
 public class SingleTon {
 
 	//Have a private static instance variable
